@@ -27,7 +27,7 @@ Processing: Convert the Microsoft logo into a grayscale logo as shown in the pic
 
 Hint: the easiest way to do this is to use the grayscale **fill** function as opposed to the RBG version of it. The grayscale version of **fill** takes one parameter, a number between 0 and 255 inclusive. This numver represents a shade of gray between black (0) and white (255) e.g.:
 
-```
+```java
     fill(150);   //sets a medium gray colour for all shapes drawn after it
     fill(0);     //sets a black colour for all shapes drawn after it
     fill(255);   //sets a white colour for all shapes drawn after it
