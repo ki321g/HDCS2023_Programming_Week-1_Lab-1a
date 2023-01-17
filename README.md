@@ -1,6 +1,5 @@
 # Higher Diploma in Computer Science 2023
-# Week_1
-# Lab-1a
+# Week_1 - Lab-1a
 Processing Exercises
 
 Exercises
@@ -22,7 +21,7 @@ Processing: Convert the Microsoft logo into a grayscale logo
 #  Challenge_1
 Processing: Write the code that will draw the typical control buttons you would see on a media player
 
-# Lab-1a - Challenge_2
+# Challenge_2
 Processing: Draw any picture you fancy as your profile picture for social media. No need to actually change your profile picture, just play around with drawing one!
 
 
