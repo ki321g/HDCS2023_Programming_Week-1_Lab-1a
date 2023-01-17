@@ -20,6 +20,10 @@ Processing: Convert the Microsoft logo into a grayscale logo
 #  Challenge_1
 Processing: Write the code that will draw the typical control buttons you would see on a media player
 
+![alt text](https://raw.githubusercontent.com/ki321g/HDCS2023_Week-1_Lab-1a/main/readme_img/Media_player.png)
+
+Hint: you will need to read up on the triangle() function on the Processing website.
+
 # Challenge_2
 Processing: Draw any picture you fancy as your profile picture for social media. No need to actually change your profile picture, just play around with drawing one!
 
