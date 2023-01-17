@@ -11,19 +11,19 @@ In this module, the **Challenge Exercises** are exactly that…challenges! So if
 ## Exercise_1
 Processing: Replicate the basic Microsoft logo as shown in the picture below:
 
-![alt text](https://github.com/ki321g/HDCS2023_Week-1_Lab-1a/blob/main/readme_img/Microsoft_Logo.png?raw=true)
+![alt text](https://github.com/ki321g/HDCS2023_Week-1_Lab-1a/blob/main/imgs_rm/Microsoft_Logo.png?raw=true)
 
 Hint: You could use [this website](http://designpieces.com/2014/11/brand-colours/) to find the exact Microsoft RGB colours in their logo.
 
 ## Exercise_2
 Processing: Replicate the beats (Dr. Dre) logo as shown in the picture below:
 
-![alt text](https://github.com/ki321g/HDCS2023_Week-1_Lab-1a/blob/main/readme_img/beats_logo.png)
+![alt text](https://github.com/ki321g/HDCS2023_Week-1_Lab-1a/blob/main/imgs_rm/beats_logo.png)
 
 ## Exercise_3
 Processing: Convert the Microsoft logo into a grayscale logo as shown in the picture below:
 
-![alt text](https://github.com/ki321g/HDCS2023_Week-1_Lab-1a/blob/main/readme_img/Microsoft_greyscale.png?raw=true)
+![alt text](https://github.com/ki321g/HDCS2023_Week-1_Lab-1a/blob/main/imgs_rm/Microsoft_greyscale.png?raw=true)
 
 Hint: the easiest way to do this is to use the grayscale **fill** function as opposed to the RBG version of it. The grayscale version of **fill** takes one parameter, a number between 0 and 255 inclusive. This numver represents a shade of gray between black (0) and white (255) e.g.:
 
@@ -36,7 +36,7 @@ Hint: the easiest way to do this is to use the grayscale **fill** function as op
 ##  Challenge_1
 Write the code that will draw the typical control buttons you would see on a media player. An example image would be:
 
-![alt text](https://raw.githubusercontent.com/ki321g/HDCS2023_Week-1_Lab-1a/main/readme_img/Media_player.png)
+![alt text](https://raw.githubusercontent.com/ki321g/HDCS2023_Week-1_Lab-1a/main/imgs_rm/Media_player.png)
 
 Hint: you will need to read up on the triangle() function on the [Processing website](https://processing.org/reference/triangle_.html)
 
