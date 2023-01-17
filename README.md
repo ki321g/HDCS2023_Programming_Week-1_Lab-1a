@@ -1,6 +1,5 @@
 # Higher Diploma in Computer Science 2023
 # Week_1 - Lab-1a
-Week_1 - Lab-1a - Processing Exercises
 
 Exercises
 The exercises are typically based on the functions we covered in the previous steps in this lab (and the associated lectures).
